@@ -8,8 +8,8 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br><br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="mobile"><b>Enter Mobile</b></label>
+    <input type="text" placeholder="Enter Moible Number" name="mobile" id="mobile" required>
     <br><br>
 
     <label for="email"><b>Enter Email</b></label>
@@ -20,8 +20,8 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br><br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <label for="psw-repeat"><b>Confirm Password</b></label>
+    <input type="password" placeholder="Confirm Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br><br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
